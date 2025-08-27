@@ -27,7 +27,7 @@ The goal is to **understand pricing patterns, availability trends, and customer 
 ## 📸 Sample Visualizations
 
 ### Price Distribution
-![Price Distribution](Screenshot 2025-08-27 171028.png)
+![Price Distribution](p1.png)
 
 ### Room Types vs Average Price
 ![Room Types](images/room_types.png)
