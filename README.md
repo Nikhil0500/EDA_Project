@@ -38,7 +38,7 @@ The goal is to **understand pricing patterns, availability trends, and customer 
 ### Availability Trends
 ![Availability Trends](images/availability.png)
 
-*(Place your saved plot screenshots in a folder named `images/` inside your repo.)*  
+
 
 ## 🚀 Key Insights
 - Identified **outliers in pricing** using boxplots.  
@@ -46,4 +46,3 @@ The goal is to **understand pricing patterns, availability trends, and customer 
 - Observed **seasonal/availability trends**.  
 - Noted how location influences price distribution.  
 
-## 📁 Project Structure
