@@ -30,7 +30,7 @@ The goal is to **understand pricing patterns, availability trends, and customer 
 ![Price Distribution](p1.png)
 
 ### Room Types vs Average Price
-![Room Types](images/room_types.png)
+![Room Types](pn2.png)
 
 ### Correlation Heatmap
 ![Correlation Heatmap](images/correlation_heatmap.png)
