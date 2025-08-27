@@ -33,7 +33,7 @@ The goal is to **understand pricing patterns, availability trends, and customer 
 ![Room Types](pn2.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](pn3)
 
 ### Availability Trends
 ![Availability Trends](images/availability.png)
