@@ -5,7 +5,7 @@ This project explores **Airbnb hotel data** using Exploratory Data Analysis (EDA
 The goal is to **understand pricing patterns, availability trends, and customer preferences** through data visualization and statistical analysis.  
 
 ## 📂 Dataset
-- Source: `datasets (2).csv` (Airbnb dataset)  
+- Source: `datasets2.csv` (Airbnb dataset)  
 - Contents: Information about Airbnb listings including price, location, availability, and other features.  
 
 ## 🔧 Technologies Used
