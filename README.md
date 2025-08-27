@@ -5,7 +5,7 @@ This project explores **Airbnb hotel data** using Exploratory Data Analysis (EDA
 The goal is to **understand pricing patterns, availability trends, and customer preferences** through data visualization and statistical analysis.  
 
 ## 📂 Dataset
-- Source: `datasets (1).csv` (Airbnb dataset)  
+- Source: `datasets (2).csv` (Airbnb dataset)  
 - Contents: Information about Airbnb listings including price, location, availability, and other features.  
 
 ## 🔧 Technologies Used
@@ -16,22 +16,29 @@ The goal is to **understand pricing patterns, availability trends, and customer 
 
 ## 📊 EDA Workflow
 1. **Data Import & Inspection**  
-   - Loaded dataset and checked shape, info, and basic stats.  
-
-2. **Data Cleaning**  
-   - Handled missing values  
-   - Removed duplicates and irrelevant columns  
-
+2. **Data Cleaning** (handling nulls, duplicates, irrelevant columns)  
 3. **Exploratory Data Analysis**  
    - Price distribution analysis  
    - Room types & availability trends  
    - Geographical distribution of listings  
    - Correlation analysis between features  
-
 4. **Visualizations**  
-   - Histograms, boxplots, bar charts  
-   - Heatmaps for correlation  
-   - Trend plots for availability & pricing  
+
+## 📸 Sample Visualizations
+
+### Price Distribution
+![Price Distribution](images/price_distribution.png)
+
+### Room Types vs Average Price
+![Room Types](images/room_types.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### Availability Trends
+![Availability Trends](images/availability.png)
+
+*(Place your saved plot screenshots in a folder named `images/` inside your repo.)*  
 
 ## 🚀 Key Insights
 - Identified **outliers in pricing** using boxplots.  
